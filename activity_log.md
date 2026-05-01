@@ -9,3 +9,4 @@
 - [2026-05-01T16:05:52Z] perf: optimize loop for better performance
 - [2026-05-01T13:47:02Z] chore: update dependencies to latest versions
 - [2026-05-01T09:09:36Z] chore: remove deprecated API calls
+- [2026-05-01T17:44:52Z] docs: update README with usage examples
