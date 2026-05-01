@@ -6,3 +6,4 @@
 - [2026-05-01T20:25:19Z] chore: remove deprecated API calls
 - [2026-05-01T17:27:17Z] docs: improve inline documentation
 - [2026-05-01T10:53:20Z] docs: update README with usage examples
+- [2026-05-01T16:05:52Z] perf: optimize loop for better performance
